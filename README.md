@@ -70,7 +70,7 @@ The most successful and profitable turns out to be BV (Buena Vista Productions).
 
 * Genres Rating Analysis
 
-![Image 4](viz/Genres.png)
+![Image 4]("Genres.png")
 
 The highest rated genre is documentary although the number of the documentary movies produced is one for the lowest among all genres. 
 
