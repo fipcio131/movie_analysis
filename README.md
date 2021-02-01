@@ -51,33 +51,33 @@ Databases used in the analysis are included in zippedData folder and listed belo
 
 * All Time Global Trends and Market Size
 
-![Image 1](viz/global trends.png)
+![Image 1](https://github.com/fipcio131/movie_analysis/blob/main/viz/global%20trends.png)
 
 The motion movie industry showed a robust steady growth until the pandemic occurred. The uptrend should continue once all the industries begin to reopen .
 In 2019 the mean gross profit was almost 30B dollars.
 
 * Return of Investment and Gross Profit Trends
 
-![Image 2](viz/STUDIOS AND MOVIES PROFITABILITY 2000 - 2020.png)
+![Image 2](https://github.com/fipcio131/movie_analysis/blob/main/viz/STUDIOS%20AND%20MOVIES%20PROFITABILITY%202000%20-%202020.png)
 
 For last 20 years the worldwide return of investment has been oscillating between 3 and 4 ratio while  domestic ROI has been close to 2. At the same time the movie industry has shown the a steady gross profit growth. 
 
 * Major Studios Movies and Profit
 
-![Image 3](viz/15 MOST PROFITABLE STUDIOS AND MOVIES 1920 - 2020.png)
+![Image 3](https://github.com/fipcio131/movie_analysis/blob/main/viz/15%20MOST%20PROFITABLE%20STUDIOS%20AND%20MOVIES%201920%20-%202020.png)
 
 The most successful and profitable turns out to be BV (Buena Vista Productions). Its movies reached gross profit of $17.5B for last 20 years.
 
 * Genres Rating Analysis
 
-![Image 4]("Genres.png")
+![Image 4](https://github.com/fipcio131/movie_analysis/blob/main/viz/Genres.png)
 
 The highest rated genre is documentary although the number of the documentary movies produced is one for the lowest among all genres. 
 
 
 * BUDGET SIZE ANALYSIS
 
-![Image 5](viz/Budget Analysis.png)
+![Image 5](https://github.com/fipcio131/movie_analysis/blob/main/viz/Budget%20Analysis.png)
 
 On the left we can see that in the most cases the higher production budget the higher gross income. However in terms of the ROI there is certain level of budget size that does not affect the ROI. Once the budget exceeds $100M the ROI always stays below 10 based on the available data.
 
